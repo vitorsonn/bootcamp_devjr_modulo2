@@ -1,0 +1,23 @@
+body{
+background-color:#F5F5F5
+
+}
+
+.container{
+background-color: #E9E9E9;
+margin: auto;
+width: 600px;
+justify-content: center;
+}
+
+.header{
+padding: 25px;
+
+}
+
+.flex-container{
+display: flex;
+background-color: #006868;
+justify-content: space-around;
+padding: 20px;
+}
