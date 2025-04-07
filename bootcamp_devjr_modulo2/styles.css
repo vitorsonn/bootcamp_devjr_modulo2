@@ -103,4 +103,12 @@ justify-content: space-around;
 .coluna-2{
     background-color: #008887;
     width: 50%;
+    color: white;
+}
+
+.title-col2{
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
 }
