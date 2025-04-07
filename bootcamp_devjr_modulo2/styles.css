@@ -17,13 +17,13 @@ overflow: hidden;
 .header{
 padding: 40px;
 
+
 }
 
 .flex-container{
 display: flex;
-background-color: #006868;
 justify-content: space-around;
-padding: 20px;
+
 }
 
 .header-title{
@@ -35,7 +35,7 @@ padding: 20px;
 }
 
 .header-subtitle{
-    color: #0091AF;
+    color: #008887;
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 15px;
@@ -45,5 +45,62 @@ padding: 20px;
 
 .header-text{
     margin-left: 40px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+    
+}
+
+.coluna-1{
+    color: white;
+    font-size: 20px;
+    background-color: #006A6A;
+    width: 50%;
+    padding: 15px;
+
+}
+
+.title-coluna{
+   margin-bottom: 10px;
+   font-size: 20px;
+   text-align: center;
+   margin-bottom: 20px;
+}
+
+.price{
+    font-size:26px;
+    font-weight: 700;
+    margin-left: 15px;
+}
+
+.month{
+    font-size: 16px;
+    font-style: italic;
+    margin-left: 15px;
+}
+
+.cancel{
+    font-size: 15px;
+    margin-left: 15px;
+}
+
+.button{
+    width: 80%;
+    padding: 15px 32px;
+    color: #008887;
+    background-color: #cccccc;
+    border-radius: 5px;
+    font-size: 16px;
+    border: none;
+    margin-top: 40px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color:#E9E9E9
+}
+
+
+.coluna-2{
+    background-color: #008887;
+    width: 50%;
 }
