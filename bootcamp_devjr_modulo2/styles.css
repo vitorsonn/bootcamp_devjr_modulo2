@@ -104,6 +104,7 @@ justify-content: space-around;
     background-color: #008887;
     width: 50%;
     color: white;
+    padding: 10px 20px;
 }
 
 .title-col2{
@@ -111,4 +112,8 @@ justify-content: space-around;
     margin-bottom: 20px;
     margin-top: 20px;
     margin-left: 20px;
+}
+
+.group-img{
+    text-align: center;
 }
