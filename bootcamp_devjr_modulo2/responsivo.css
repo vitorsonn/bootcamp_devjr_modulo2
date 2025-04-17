@@ -1,0 +1,24 @@
+@media screen and (max-width:620px){
+    html{
+        font-size: 14px;
+
+    }
+
+    .flex-container{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .coluna-1, .coluna-2{
+        width: 100%;
+        box-sizing: border-box;
+    
+    }
+
+    .container{
+        width: 95%;
+    }
+
+
+}
+

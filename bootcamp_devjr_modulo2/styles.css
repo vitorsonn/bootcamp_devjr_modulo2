@@ -15,7 +15,7 @@ overflow: hidden;
 }
 
 .header{
-padding: 40px;
+padding: 2.5rem;
 
 
 }
@@ -27,71 +27,72 @@ justify-content: space-around;
 }
 
 .header-title{
-    font-size: 32px;
+    font-size: 2rem;
     color:#006666;
     font-weight: bold;
+    margin-bottom: 1.2rem;
    
 
 }
 
 .header-subtitle{
     color: #008887;
-    font-size: 20px;
+    font-size: 1.2rem;
     font-weight: 600;
-    margin-bottom: 15px;
-    margin-left: 40px;
+    margin-bottom: 0.9rem;
+    margin-left: 2.5rem;
 
 }
 
 .header-text{
-    margin-left: 40px;
-    margin-bottom: 20px;
+    margin-left: 2.5rem;
+    margin-bottom: 1.2rem;
     
 }
 
 .coluna-1{
     color: white;
-    font-size: 20px;
+    font-size: 1.2rem;
     background-color: #006A6A;
     width: 50%;
-    padding: 15px;
+    padding: 1.2rem;
 
 }
 
 .title-coluna{
-   margin-bottom: 10px;
-   font-size: 20px;
+   margin-bottom: 0.6rem;
+   font-size: 1.2rem;
    text-align: center;
-   margin-bottom: 20px;
+   margin-bottom: 1.2rem;
 }
 
 .price{
-    font-size:26px;
+    font-size:1.6rem;
     font-weight: 700;
-    margin-left: 15px;
+    margin-left: 0.9rem;
 }
 
 .month{
-    font-size: 16px;
+    font-size: 0.9rem;
     font-style: italic;
-    margin-left: 15px;
+    margin-left: 0.9rem;
 }
 
 .cancel{
-    font-size: 15px;
-    margin-left: 15px;
+    font-size: 1rem;
+    margin-left: 0.9rem;
 }
 
 .button{
     width: 80%;
-    padding: 15px 32px;
+    padding: 0.9rem 2rem;
     color: #008887;
     background-color: #cccccc;
     border-radius: 5px;
-    font-size: 16px;
+    font-size: 1rem;
     border: none;
-    margin-top: 40px;
-    margin-left: 30px;
+    margin-top: 2.5rem;
+    margin-left: 1.7rem;
     cursor: pointer;
 }
 
@@ -104,14 +105,14 @@ justify-content: space-around;
     background-color: #008887;
     width: 50%;
     color: white;
-    padding: 10px 20px;
+    padding: 0.6rem 1rem;
 }
 
 .title-col2{
-    font-size: 15px;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    margin-left: 20px;
+    font-size: 1rem;
+    margin-bottom: 1.2rem;
+    margin-top: 1.2rem;
+    margin-left: 1.2rem;
 }
 
 .group-img{
